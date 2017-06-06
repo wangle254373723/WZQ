@@ -4,7 +4,7 @@ AI
 */
 class AI
 {
-    // 15*15共有572种五子连珠的可能性
+    // 15*15共有572种五子连珠的可能性;
     const int MaxFiveChainCount = 572;
 
     //玩家的可能性
