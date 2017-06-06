@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1956D731-6166-9B55-87A1-B4F905DF4013}") = "GoBang", "Assembly-CSharp.csproj", "{4A21EE89-D696-4C16-E301-C761F88B867B}"
+EndProject
+Project("{1956D731-6166-9B55-87A1-B4F905DF4013}") = "GoBang", "Assembly-CSharp-Editor.csproj", "{766DAACB-9D8A-D9F5-65A5-99159B02B777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A21EE89-D696-4C16-E301-C761F88B867B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A21EE89-D696-4C16-E301-C761F88B867B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A21EE89-D696-4C16-E301-C761F88B867B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A21EE89-D696-4C16-E301-C761F88B867B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{766DAACB-9D8A-D9F5-65A5-99159B02B777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766DAACB-9D8A-D9F5-65A5-99159B02B777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766DAACB-9D8A-D9F5-65A5-99159B02B777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766DAACB-9D8A-D9F5-65A5-99159B02B777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

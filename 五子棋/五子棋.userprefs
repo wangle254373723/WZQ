@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\MainLoop.cs">
+    <Files>
+      <File FileName="Assets\Script\Title.cs" Line="25" Column="13" />
+      <File FileName="Assets\Script\Board.cs" Line="46" Column="14" />
+      <File FileName="Assets\Script\BoardModel.cs" Line="114" Column="10" />
+      <File FileName="Assets\Script\MainLoop.cs" Line="86" Column="28" />
+      <File FileName="Assets\Script\AI.cs" Line="210" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
